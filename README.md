@@ -1,5 +1,6 @@
  # 👋 Hi, I’m _Breno da Cunha_
  I am a male from Brazil who always had an interest in all things regarding technology and science in general.
+ <img align="right" src="./images/BRENO DA CUNHA OCULOS COZINHA.jpg" width="350px" height="350px" alt="">
  ## 🤔 Interests
 - 👀 I’m interested in website development, genealogy, music, and fiction.
 - 🌱 I’m currently learning Python, as well as a few idioms including German.
