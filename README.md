@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate on any project that relates to my interests, but have in mind that I am a beginner in the world of coding.
  ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/breno-da-cunha/?locale=en_US)
+## Notes
+1. _I'm still to improve and complete this GitHub README repository. As I said before, I'm still a beginner in the world of coding_.
 ---
 > Do. Or do not. There is no try.
 
