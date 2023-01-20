@@ -2,11 +2,14 @@
  I am a male from Brazil who always had an interest in all things regarding technology and science in general.
  <img align="right" src="./images/BRENO DA CUNHA OCULOS COZINHA.jpg" width="350px" height="350px" alt="">
  ## 🤔 Interests
-- 👀 I’m interested in website development, genealogy, music, and fiction.
-- 🌱 I’m currently learning Python, as well as a few idioms including German.
-- 💞️ I’m looking to collaborate on any project that relates to my interests, but have in mind that I am a beginner in the world of coding.
+ <img align="right" src="./images/RAINY_WINDOW.gif" width="250px" height="250px" alt="">
+ <li> 👀 I’m interested in website development, genealogy, music, and fiction.
+ <li>🌱 I’m currently learning Python, as well as a few idioms including German.
+ <li> 💞️ I’m looking to collaborate on any project that relates to my interests, but have in mind that I am a beginner in the world of coding.
+  
 ## Notes
 1. _I'm still to improve and complete this GitHub README repository. As I said before, I'm still a beginner in the world of coding_.
+  
 ## How to reach me
 <a href="https://www.linkedin.com/in/breno-da-cunha/?locale=en_US" alt="" target="_blank">
     <img src="./images/button/linkedin.svg" alt="">
